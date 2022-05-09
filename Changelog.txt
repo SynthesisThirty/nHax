@@ -1,0 +1,104 @@
+nAKH 1.0.0.19
+- Patchfix
+- Inventory Fix
+
+nAKH 1.0.0.18
+- Respawn Eidolon fix
+
+nAKH 1.0.0.17
+- Pattern fix
+
+nAKH 1.0.0.15 / 1.0.0.16
+- Fixed latest Patch 80
+- Loc. Struct prov. Fix
+- Window Manager Fix
+- Inventory Fix
+- Increased Movementspeed Value to 100
+
+nAKH 1.0.0.14
+- Fixed latest Patch 76/77
+
+nAKH 1.0.0.13
+- Fixed current Patch 73/74
+- Fixed Login/Server Switch Game Crash
+
+nAKH 1.0.0.12 - IAV
+- Fixed Patterns
+- Fixed Inventory Access
+
+nAKH 1.0.0.11
+- Fixed latest Patch 68
+- Fixed Patterns
+- Fixed InventoryPtr
+- Log inside the "/Logs/" Folder
+
+nAKH 1.0.0.10
+- Remove Factor Hack
+- Fixed latest Patch 66 + 67
+
+nAKH 1.0.0.9
+- Added the Factor Hack
+-- Default Value from x01 increased to x0125. (~35% MovementSpeed)
+- Speedhack Fix~
+
+
+nAKH 1.0.0.8
+- Fix Pattern Patch 62 & 63
+- Fix Eudemon Struct
+
+nAKH 1.0.0.7
+- Add Slider for Speedhack
+- Fix Pattern Patch 61
+
+nAKH 1.0.0.6
+- Optimize any Settings and Codes
+- Add a few of Interface
+
+nAKH 1.0.0.5
+- FlyHack, increased Height
+- Auto Respawn Eidolon Mode for only Eidolon Slot 1
+
+
+nAKH 1.0.0.4
+- Include FLTK Lib
+-- Speedhack, Fishing Helper, Pingunator and Eidolon Auto Link Mode can activate / dissable.
+
+Thanks AlainProvist for many helps!
+
+nAKH 1.0.0.3
+- Fishing Helper
+-- Add Pingunator Feature
+
+nAKH 1.0.0.2 
+- Speedhack
+-- Add the Mount detect
+Default Speedhack is 20, if it detect the Mount it increase to 30
+- Auto Revive Mode remove
+-- Click F11 Hotkey revive
+- Fishing Helper
+-- Add the Bait detect
+-- Add full Inventory check
+
+nAKH 1.0.0.1 
+is the Modify Version from EAL / AlainProvist Project.
+
+- Speedhack with default Movement Value (20)
+- Auto Revive Mode with 3 sec delay
+- Fishing Helper, doenst have the Bait, Equip Check
+- F10 Hotkey call the Teleport Interface
+--------------------------------------------------------------------------------------------------
+ * This file is part of the Eidolon Auto Link distribution (https://github.com/AlainProvist/EAL).
+ * Copyright (c) 2019 AlainProvist.
+ * 
+ * This program is free software: you can redistribute it and/or modify  
+ * it under the terms of the GNU General Public License as published by  
+ * the Free Software Foundation, version 3.
+ *
+ * This program is distributed in the hope that it will be useful, but 
+ * WITHOUT ANY WARRANTY; without even the implied warranty of 
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
+ * General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License 
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+--------------------------------------------------------------------------------------------------
